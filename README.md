@@ -36,6 +36,7 @@ To configure Google Cloud Vision APIs:
 <p align="center">
 
 https://github.com/rasleend/4990-project/assets/49121563/7a795d09-e6c3-47fa-bcb2-1d9f144ccf73
+
 https://github.com/Zequlos/4990-project/ (Credit to Rasleen, she was the primary lead in the project, I just helped with the front end development in the early stages of development.
 </p>
 
