@@ -6,7 +6,9 @@ results of the inference model to create anchors in the AR scene.
 
 
 <p align="center">
+ 
 https://github.com/rasleend/4990-project/assets/49121563/7a795d09-e6c3-47fa-bcb2-1d9f144ccf73
+ 
 </p>
 
 
@@ -37,7 +39,7 @@ To configure Google Cloud Vision APIs:
 1. Follow steps for configuring a Google Cloud project, enabling billing, enabling the API, and enabling a service account on [Set up the Vision API documentation](https://cloud.google.com/vision/docs/setup).
 2. Save the resulting service account key file to `app/src/main/res/raw/credentials.json`.
 
-
+https://github.com/Zequlos/4990-project/ (Credit to Rasleen, she was the primary lead in the project, I just helped with the front end development in the early stages of development.
 
 ## License
 
